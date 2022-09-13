@@ -1,1 +1,1 @@
-# cpp_net_homework8_2_client
+Homework 8, Messenger (client)
